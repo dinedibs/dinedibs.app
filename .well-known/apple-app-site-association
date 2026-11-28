@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["LGMTHFQ8HL.com.dinedibs.app"],
+        "components": [{ "/": "/d/*", "comment": "A shared deal opens in the app" }]
+      }
+    ]
+  }
+}
